@@ -22,3 +22,17 @@ Once encrypted, the output will be generated into a text file. We use this file 
 
 ![image](https://github.com/KasiR07/AES-Image-Encryption/assets/108777263/db6b7766-e20d-4681-85fc-4abbacc9d0da)
 
+# Resullts and Analysis
+
+![image](https://github.com/KasiR07/AES-Image-Encryption/assets/108777263/a6cca41c-c125-4cdb-8f2d-539a22a60c65)
+
+![image](https://github.com/KasiR07/AES-Image-Encryption/assets/108777263/ac0c72f3-7d29-4706-925e-58807cd3a28b)
+
+![image](https://github.com/KasiR07/AES-Image-Encryption/assets/108777263/353ec070-5619-4edb-986d-b619ba84b40b)
+
+![image](https://github.com/KasiR07/AES-Image-Encryption/assets/108777263/91f1a414-c818-4321-a396-a9fc577c6b03)
+
+![image](https://github.com/KasiR07/AES-Image-Encryption/assets/108777263/a1162b61-2806-4b65-badf-d8a848e81f36)
+
+![image](https://github.com/KasiR07/AES-Image-Encryption/assets/108777263/3f805c1d-0448-42ea-a651-717060d9ceda)
+
