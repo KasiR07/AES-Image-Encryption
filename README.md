@@ -10,3 +10,15 @@ We will implement this project in python, including the frontend. The app will a
 ![image](https://github.com/KasiR07/AES-Image-Encryption/assets/108777263/cc8277b3-4fb0-46c9-8bf8-30544f41ab49)
 
 the AES algorithm while encryption, takes the in the plaintext, which in this case will be the byte array of the image that will be encrypted and a key. Following that are the rounds of encryption where there are different functions and the blocks are transformed. A similar process is done in the decryption phase where the cipher text is taken along with the key to perform the decryption process where the functions in the blocks are inverse.
+
+# Encryption
+First, the image will be received from the user. Now, we can convert the image into a byte array so that we can work on it using AES. Once the user inputs the password, it will be hashed using sha256 to get a digest size of 32 bits and the key length 256 bits. Now, we can use this information for the AES encryption.
+
+![image](https://github.com/KasiR07/AES-Image-Encryption/assets/108777263/22a20a14-0bf5-4d0d-963d-fb219128d1c9)
+
+
+# Decryption
+Once encrypted, the output will be generated into a text file. We use this file and use the key which is again hashed using sha256 for obtaining the key size of 256 bits, from the user to perform the AES decryption to get the byte array. Now this byte array is converted back to an image.
+
+![image](https://github.com/KasiR07/AES-Image-Encryption/assets/108777263/db6b7766-e20d-4681-85fc-4abbacc9d0da)
+
