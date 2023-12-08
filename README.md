@@ -36,3 +36,5 @@ Once encrypted, the output will be generated into a text file. We use this file 
 
 ![image](https://github.com/KasiR07/AES-Image-Encryption/assets/108777263/3f805c1d-0448-42ea-a651-717060d9ceda)
 
+# Conclusion
+After successfully encrypting and decrypting an image using AES algorithm, we learnt and understood how important it is to secure our data especially since we have a lot of online presence these days. The security can be enhanced by using hash functions for the passwords so that it is harder for a hacker to crack and get personal details. AES encryption of images is lossless as we found out from the above metrics that we get the exact same image as the output. Hence, this could be adopted in a lot more applications for enhancing security of data for users.
